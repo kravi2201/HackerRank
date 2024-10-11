@@ -25,6 +25,8 @@ class RectangleArea : public Rectangle {
     }
 };
 
+//Locked portion in HackerRank code snippet.
+
 int main()
 {
     /*
